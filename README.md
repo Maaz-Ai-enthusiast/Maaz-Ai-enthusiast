@@ -1,10 +1,7 @@
 ### <div align="center">I'm Maaz Ai-enthusiast, a software engineer 
 =>My ultimate goal is to join a top-tier FAANG company and contribute to groundbreaking technological advancements.</div>  
   
-
-<div align="center">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.freeimages.com%2Fimages%2Flarge-previews%2F901%2Fhandshake-1239869.jpg%3Ffmt%3Dwebp%26w%3D500&tbnid=FoIwfgEcwAvm6M&vet=12ahUKEwjig-y5x4iGAxVBuUwKHcJACTYQMygkegUIARDKAQ..i&imgrefurl=https%3A%2F%2Fwww.freeimages.com%2Fsearch%2Fgreeting&docid=4RFbEB1miW8vCM&w=500&h=215&q=greeting%20img&ved=2ahUKEwjig-y5x4iGAxVBuUwKHcJACTYQMygkegUIARDKAQ" align="center" style="width: 100%" />
-</div>  
+  
   
 
 -  ❓Ask me about any Coding problem   
@@ -110,12 +107,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
@@ -128,14 +119,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
