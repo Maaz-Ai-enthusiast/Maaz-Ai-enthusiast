@@ -1,5 +1,5 @@
 ### <div align="center">I'm Maaz Ai-enthusiast, a software engineer 
-=>My ultimate goal is to join a top-tier FAANG company and contribute to groundbreaking technological advancements.</div>  
+<h3>My ultimate goal is to join a top-tier FAANG company and contribute to groundbreaking technological advancements.</h3></div>  
   
   
   
