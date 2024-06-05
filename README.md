@@ -105,7 +105,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Ai-enthusiast&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
-  
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Maaz_Ai-enthusiast?ext=heatmap)
 
 <br/>  
 
