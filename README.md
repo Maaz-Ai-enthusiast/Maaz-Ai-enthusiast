@@ -108,8 +108,9 @@
 
  
 </div>  
-## Leetcode Stats
 
+<h1>Leetcode Stats</h1>
+<hr>
 <div align="center">
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/Maaz_Ai-enthusiast?ext=heatmap)
