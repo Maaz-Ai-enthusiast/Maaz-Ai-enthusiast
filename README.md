@@ -92,8 +92,7 @@
 <a href="https://linkedin.com/in/in/maazaienthusiast" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="https://leetcode.com/u/Maaz_Ai-enthusiast" target="_blank">
-   <img src=https://www.google.com/imgres?q=leetcode%20icon&imgurl=https%3A%2F%2Fcdn3d.iconscout.com%2F3d%2Ffree%2Fthumb%2Ffree-leetcode-11492972-9325307.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fleetcode-3628885&docid=CSjGx072Keqp8M&tbnid=b7hmhmtoRpAlxM&vet=12ahUKEwjs1uOQr8SGAxXIQ6QEHb92A1AQM3oFCIMBEAA..i&w=450&h=450&hcb=2&ved=2ahUKEwjs1uOQr8SGAxXIQ6QEHb92A1AQM3oFCIMBEAA style="margin-bottom: 5px;" />
+ <a href="https://leetcode.com/u/Maaz_Ai-enthusiast" target="_blank">LEETCODE
  </a> 
 <a href="https://www.facebook.com/profile.php?id=61558068443560" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
