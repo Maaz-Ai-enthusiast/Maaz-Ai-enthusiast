@@ -105,8 +105,12 @@
 </a>
 <a href="https://www.facebook.com/profile.php?id=61558068443560" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://lablab.ai/u/@Maaz_Ai_enthusiast" target="_blank">
+<img src="https://img.shields.io/badge/lablab.ai-%230A8F08.svg?&style=for-the-badge&logo=lablab&logoColor=white" alt="lablab.ai" style="margin-bottom: 5px;" />
+</a>
 </div>
+
  
   
 
