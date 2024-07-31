@@ -1,6 +1,8 @@
 ### <div align="center"><h1>I'm Maaz Ai-enthusiast, a software engineering student</h1>
 <h3  align="center" >My ultimate goal is to join a top-tier FAANG company and contribute to groundbreaking technological advancements.</h3>
- <img src="https://media.licdn.com/dms/image/D5635AQGVLOTc1dH13Q/profile-framedphoto-shrink_200_200/0/1711218910879?e=1723017600&v=beta&t=5p-lb5SH4oAGFdd6SH06HHEEpYLKUNjEj9NPDmS_fYs" alt="Maaz Ai-enthusiast" style="width: 200px; height: 200px; border-radius: 50%;">
+ <img src="https://media.licdn.com/dms/image/D5635AQGVLOTc1dH13Q/profile-framedphoto-shrink_200_200/0/1711218910879?e=1723017600&v=beta&t=5p-lb5SH4oAGFdd6SH06HHEEpYLKUNjEj9NPDmS_fYs" 
+         alt="Maaz Ai-enthusiast" 
+         style="display: block; margin: 0 auto; width: 200px; height: 200px; border-radius: 30%;">
 </div>  
   
   
