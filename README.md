@@ -91,25 +91,32 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Maaz-Ai-enthusiast" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/maazaienthusiast" target="_blank">
+<a href="https://linkedin.com/in/in/maazaienthusiast" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/u/Maaz_Ai-enthusiast" target="_blank">
 <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:maaz.ai.enthusiast@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.facebook.com/profile.php?id=61558068443560" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>
-<a href="https://lablab.ai/u/@Maaz_Ai_enthusiast" target="_blank">
-<img src="https://img.shields.io/badge/lablab.ai-%230A8F08.svg?&style=for-the-badge&logo=lablab&logoColor=white" alt="lablab.ai" style="margin-bottom: 5px;" />
+<a href="https://lablab.ai/u/@MaazAi_enthusiast" target="_blank">
+<img src="https://img.shields.io/badge/lablab.ai-%2344A9A7.svg?&style=for-the-badge&logo=lablab&logoColor=white" alt="lablab" style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Maaz_Ai_enthusiast" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/maaz.ai.enthusiast/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
+<a href="skype:live:.cid.1234567890abcdef?chat" target="_blank">
+<img src="https://img.shields.io/badge/skype-%231572B6.svg?&style=for-the-badge&logo=skype&logoColor=white" alt="skype" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:maaz.ai.enthusiast@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>
 </div>
+
 
  
   
