@@ -17,9 +17,9 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -39,9 +39,8 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
+<td valign="top" width="33%">
 
 ### Backend  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -71,8 +70,8 @@
     </a>  
 </div>
 
-
-
+</td>
+<td valign="top" width="33%">
 
 ### DevOps  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">  
@@ -84,7 +83,10 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>
+ 
 
 <br/>  
 
