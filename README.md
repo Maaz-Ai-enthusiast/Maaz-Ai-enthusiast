@@ -97,22 +97,26 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/maazaienthusiast" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/u/Maaz_Ai-enthusiast" target="_blank">
-<img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:maaz.ai.enthusiast@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61558068443560" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
-</a>
-<a href="https://lablab.ai/u/@Maaz_Ai_enthusiast" target="_blank">
-<img src="https://img.shields.io/badge/lablab.ai-%230A8F08.svg?&style=for-the-badge&logo=lablab&logoColor=white" alt="lablab.ai" style="margin-bottom: 5px;" />
-</a>
+    <a href="https://linkedin.com/in/maazaienthusiast" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://leetcode.com/u/Maaz_Ai-enthusiast" target="_blank">
+        <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
+    </a>
+    <a href="mailto:maaz.ai.enthusiast@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61558068443560" target="_blank">
+        <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://lablab.ai/u/@Maaz_Ai_enthusiast" target="_blank">
+        <img src="https://img.shields.io/badge/lablab.ai-%230A8F08.svg?&style=for-the-badge&logo=lablab&logoColor=white" alt="lablab.ai" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://medium.com/@maazaienthusiast" target="_blank">
+        <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
+    </a>
 </div>
+
 
 
 
