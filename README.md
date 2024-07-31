@@ -7,7 +7,7 @@
 -  ❓Ask me about any Coding problem   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Full stack Web And Mobile Development and related technologies  
   
 
 - ⚡ Fun fact: More Code Than Words  
