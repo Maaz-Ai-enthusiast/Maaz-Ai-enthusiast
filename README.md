@@ -94,8 +94,8 @@
 
 <br/>  
 
+## Connect with me 
 
-## Connect with me  
 <div align="center">
     <a href="https://linkedin.com/in/maazaienthusiast" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
@@ -114,6 +114,12 @@
     </a>
     <a href="https://medium.com/@maazaienthusiast" target="_blank">
         <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://x.com/AiEnthusia84513" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.upwork.com/freelancers/~01fa51ddb2a327f336" target="_blank">
+        <img src="https://img.shields.io/badge/upwork-%2338A9FF.svg?&style=for-the-badge&logo=upwork&logoColor=white" alt="upwork" style="margin-bottom: 5px;" />
     </a>
 </div>
 
