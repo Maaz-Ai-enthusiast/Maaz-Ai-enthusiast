@@ -140,3 +140,11 @@
  ![Leetcode Stats](https://leetcard.jacoblin.cool/Maaz_Ai-enthusiast?ext=heatmap)
   
 </div>
+<br/>
+<h1>Monkeytype Stats</h1>
+<hr>
+<div align="center">
+    <a href="https://monkeytype.com/account" target="_blank">
+        <img src="https://img.shields.io/badge/Monkeytype-Stats-blue?style=for-the-badge&logo=typing&logoColor=white" alt="Monkeytype Stats" />
+    </a>
+</div>
