@@ -141,10 +141,16 @@
   
 </div>
 <br/>
-<h1>Monkeytype Stats</h1>
+<h1>Typing Stats</h1>
 <hr>
 <div align="center">
     <a href="https://monkeytype.com/account" target="_blank">
         <img src="https://img.shields.io/badge/Monkeytype-Stats-blue?style=for-the-badge&logo=typing&logoColor=white" alt="Monkeytype Stats" />
     </a>
 </div>
+
+<h2>Typing Heatmap</h2>
+<div align="center">
+    <img src="https://your-image-hosting-url.com/monkeytype-heatmap.png" alt="Monkeytype Heatmap" />
+</div>
+
