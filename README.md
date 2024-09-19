@@ -1,4 +1,4 @@
-### <div align="center"><h1>I'm Maaz Ai-enthusiast, a software engineering student</h1>
+### <div align="center"><h1>I'm Maaz Irfan, a software engineering student</h1>
 <h3  align="center">My ultimate goal is to contribute to groundbreaking technological advancements.</h3>
 
   
