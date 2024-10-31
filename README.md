@@ -1,15 +1,15 @@
 ### <div align="center"><h1>I'm Maaz Irfan, a software engineering student</h1>
 <h3  align="center">My ultimate goal is to contribute to groundbreaking technological advancements.</h3>
 
-  
 - ❓Ask me about any Coding problem   
-  
 - ❓ Ask me about anything related to Full stack Web And Mobile Development and related technologies  
-  
 - ⚡ Fun fact: More Code Than Words  
-  
 <br/>  
+## Portfolio
 
+Check out my work [here](https://maazirfan.netlify.app/)
+
+<br/> 
 ## My Skill Set  
 <table>
 <tr>
@@ -112,29 +112,15 @@
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
     </a>
 </div>
-
-
-
-
  
-  
-
-<br/>  
-
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Ai-enthusiast&show_icons=true&count_private=true&hide_border=true" align="center" />
-
- 
-</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maaz-Ai-enthusiast&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <h1>Leetcode Stats</h1>
 <hr>
 <div align="center">
 
- ![Leetcode Stats](https://leetcard.jacoblin.cool/Maaz_Ai-enthusiast?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Maaz_Ai-enthusiast?ext=heatmap)
   
 </div>
 <br/>
-
-
