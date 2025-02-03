@@ -109,9 +109,10 @@ Check out my work [here](https://maazirfan.netlify.app/)
     <a href="https://medium.com/@maazaienthusiast" target="_blank">
         <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://x.com/AiEnthusia84513" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-    </a>
+   <a href="https://www.fiverr.com/s/ZmWEjej" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?&style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" style="margin-bottom: 5px;" />
+</a>
+
 </div>
  
 ## Github Stats  
