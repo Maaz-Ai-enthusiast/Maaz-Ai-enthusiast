@@ -94,7 +94,7 @@ Check out my work [here](https://maazirfan.netlify.app/)
     <a href="https://leetcode.com/u/Maaz_Ai-enthusiast" target="_blank">
         <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
     </a>
-     <a href="https://www.upwork.com/freelancers/~01fa51ddb2a327f336" target="_blank">
+     <a href="https://www.upwork.com/freelancers/~01fa51ddb2a327f336?viewMode=1" target="_blank">
         <img src="https://img.shields.io/badge/upwork-%2338A9FF.svg?&style=for-the-badge&logo=upwork&logoColor=white" alt="upwork" style="margin-bottom: 5px;" />
     </a>
     <a href="mailto:maaz.ai.enthusiast@gmail.com" target="_blank">
