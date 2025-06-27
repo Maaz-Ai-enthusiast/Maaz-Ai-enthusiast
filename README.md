@@ -1,14 +1,16 @@
-### <div align="center"><h1>I'm Maaz Irfan, a software engineering student</h1>
-<h3  align="center">My ultimate goal is to contribute to groundbreaking technological advancements.</h3>
+### <div align="center"><h1>I'm Maaz Irfan, a software engineer</h1>
+<h3  align="center">My ultimate goal is to give digital solutions to complex problems.</h3>
+<h3  align="center">I don’t write code—I debug human problems.</h3>
+
 
 - ❓Ask me about any Coding problem   
-- ❓ Ask me about anything related to Full stack Web And Mobile Development and related technologies  
+- ❓ Ask me about anything related to Full Stack Web and Mobile Development and related technologies  
 - ⚡ Fun fact: More Code Than Words  
 <br/>
 
 ### Portfolio
 
-Check out my work [here](https://maazirfan.netlify.app/)
+Check out my work [here](https://portfolio-nine-psi-46.vercel.app/)
 
 <br/> 
 ### My Skill Set  
@@ -44,9 +46,6 @@ Check out my work [here](https://maazirfan.netlify.app/)
     </a>  
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-    </a>  
-    <a href="https://www.php.net/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
     </a>  
     <a href="https://www.mongodb.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
